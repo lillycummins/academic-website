@@ -29,7 +29,7 @@ experience:
     location: Zoom
     date_start: '2021-06-28'
     date_end: '2021-07-02'
-    description: Assisted in delivering a 5 day online workshop teaching the basics of python to agricultural researchers in Africa as part of the BiXCoP programme 
+    description: Assisted in delivering a 5 day online workshop teaching the basics of python to agricultural researchers in Africa as part of the BiXCoP programme. 
 
 design:
   columns: '2'
