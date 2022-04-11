@@ -29,9 +29,9 @@ content:
  # phone: 888 888 88 88
   address:
     street: Institute of Microbiology and Infection, University of Birmingham
-    city: Edgbaston
-    region: Birmingham
-    postcode: 'B15 2TT'
+  #  city: Edgbaston
+  #  region: Birmingham
+  #  postcode: 'B15 2TT'
     country: United Kingdom
     country_code: UK
 
