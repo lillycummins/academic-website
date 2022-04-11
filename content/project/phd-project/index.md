@@ -4,6 +4,8 @@ subtitle: Why do some lineages of E. coli gain multidrug resistance whilst other
 date: 2022-04-11T20:29:51.255Z
 draft: false
 featured: false
+tags:
+  - AMR
 image:
   filename: ""
   focal_point: ""
