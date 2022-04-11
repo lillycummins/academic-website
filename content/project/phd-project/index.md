@@ -13,4 +13,4 @@ image:
 ---
  My PhD focuses on
 
-I am supervised by Professors [Alan McNally](https://www.birmingham.ac.uk/staff/profiles/microbiology-infection/mcnally-alan.aspx) and [James McInerney](http://mcinerneylab.com/james-mcinerney/)
+I am supervised by Professors [Alan McNally](https://www.birmingham.ac.uk/staff/profiles/microbiology-infection/mcnally-alan.aspx) and [James McInerney](http://mcinerneylab.com/james-mcinerney/).
