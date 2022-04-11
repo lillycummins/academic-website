@@ -25,8 +25,8 @@ feature:
   icon_pack: fab
   name: Programming
 - description:
-  icon: chart-line-up
-  icon_pack: fab
+  icon: chart-line
+  icon_pack: fas
   name: Data analysis and visualisation
 
 # Uncomment to use emoji icons.
