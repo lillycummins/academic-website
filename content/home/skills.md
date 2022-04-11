@@ -16,14 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Bioinformatics
+- description:
   icon: laptop-code
   icon_pack: fas
-  name: commandline
-- description: Programming
+  name: Bioinformatics
+- description: python
   icon: python
   icon_pack: fab
-  name: python
+  name: Programming
+- description:
+  icon: chart-line-up
+  icon_pack: fas
+  name: Data analysis and visualisation
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
