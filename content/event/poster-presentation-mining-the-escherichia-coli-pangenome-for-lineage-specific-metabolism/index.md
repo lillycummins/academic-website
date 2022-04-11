@@ -17,8 +17,8 @@ abstract: Escherichia coli is a diverse species spanning both common commensals
   key in future research to manipulate the abilities of specific E. coli
   lineages in their relevant environments.
 location: Online
-date: 2021-04-27T19:41:56.886Z
-date_end: 2022-04-26T23:00:00.000Z
+date: 2021-04-27T17:30:56.886Z
+date_end: 2021-04-27T18:30:00.000Z
 all_day: false
 event: Microbiology Society Annual COnference Online 2021
 event_url: https://microbiologysociety.org/event/full-events-listing/annual-conference-online-2021.html
