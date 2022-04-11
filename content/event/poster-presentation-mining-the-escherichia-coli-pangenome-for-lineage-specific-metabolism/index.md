@@ -1,5 +1,5 @@
 ---
-title: "Poster Presentation: Mining the _Escherichia coli_ pangenome for
+title: "Poster Presentation: Mining the Escherichia coli pangenome for
   lineage-specific metabolism"
 abstract: _Escherichia coli_ is a diverse species spanning both common commensals
   of humans and animals and clinically important, major global pathogens. The
