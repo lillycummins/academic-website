@@ -49,4 +49,4 @@ I'm Lilly, a 2nd year PhD student on [The Wellcome Trust - University of Notting
 
 
 
-Beyond my research, I sit on my Institute's Equality, Diversity and Inclusion Committee and I am also part of the Microbiology Society's Early Career Microbiologists' Forum [Executive Committee](https://microbiologysociety.org/why-microbiology-matters/early-career-microbiologists-forum/meet-the-executive-committee.html)
+Beyond my research, I sit on my Institute's Equality, Diversity, and Inclusion Committee. I am also part of the Microbiology Society's Early Career Microbiologists' Forum [Executive Committee](https://microbiologysociety.org/why-microbiology-matters/early-career-microbiologists-forum/meet-the-executive-committee.html) as the Audit, Risk, and Evalutation representative.
