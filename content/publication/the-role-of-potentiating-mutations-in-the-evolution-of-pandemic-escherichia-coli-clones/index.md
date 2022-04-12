@@ -32,8 +32,9 @@ abstract: The Escherichia coli species exhibits a vast array of variable
 draft: false
 featured: false
 tags:
-  - Eschericia coli
+  - Escherichia coli
   - AMR
+  - evolution
 image:
   filename: ""
   focal_point: ""
