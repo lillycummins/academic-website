@@ -6,6 +6,9 @@ draft: false
 featured: false
 tags:
   - AMR
+  - Escherichia coli
+  - Evolution
+  - Pangenomes
 image:
   filename: ""
   focal_point: ""
