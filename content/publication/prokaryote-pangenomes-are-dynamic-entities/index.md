@@ -26,7 +26,7 @@ abstract: Prokaryote pangenomes are influenced heavily by environmental factors
   conclude that future models of pangenome evolution should incorporate
   eco-evolutionary dynamics to fully encompass their dynamic, changeable nature.
 draft: false
-featured: false
+featured: true
 tags:
   - Pangenomes
   - Evolution
