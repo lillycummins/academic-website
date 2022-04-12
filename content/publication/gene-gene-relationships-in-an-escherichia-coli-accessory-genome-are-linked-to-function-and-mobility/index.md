@@ -11,7 +11,7 @@ authors:
   - Alan McNally
   - James O. McInerney
 author_notes:
-  - University of Birmingham University o fNottingham
+  - University of Birmingham University of Nottingham
   - University of Nottingham
   - University of Birmingham University of Nottingham
   - University of Birmingham
