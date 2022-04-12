@@ -35,9 +35,11 @@ tags:
   - Escherichia coli
   - AMR
   - evolution
+categories:
+  - Publications
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-04-12T09:56:26.647Z
+date: 2021-11-08T10:56:26.647Z
 ---
