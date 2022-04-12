@@ -26,7 +26,7 @@ publishDate: 2022-04-11T19:41:56.974Z
 draft: false
 featured: false
 authors:
-  - Elizabeth A. Cummins
+  - admin
   - Rebecca J. Hall
   - James O. McInerney
   - Alan McNally
