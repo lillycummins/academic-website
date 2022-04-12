@@ -10,6 +10,13 @@ authors:
   - Christopher Connor
   - Alan McNally
   - James O. McInerney
+author_notes:
+  - University of Birmingham University o fNottingham
+  - University of Nottingham
+  - University of Birmingham University of Nottingham
+  - University of Birmingham
+  - University of Birmingham
+  - University of Nottingham
 doi: https://doi.org/10.1099/mgen.0.000650
 publication: Microbial Genomics
 publication_short: MGen
