@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Rebecca J. Hall
   - Fiona J. Whelan
-  - Elizabeth A. Cummins
+  - admin
   - Christopher Connor
   - Alan McNally
   - James O. McInerney
