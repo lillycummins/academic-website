@@ -29,7 +29,7 @@ publishDate: 2022-04-11T20:02:31.720Z
 draft: false
 featured: false
 authors:
-  - Elizabeth A .Cummins
+  - admin
   - Rebecca J. Hall
   - Chris Connor
   - Alan McNally
