@@ -4,7 +4,7 @@ title: The role of potentiating mutations in the evolution of pandemic
 publication_types:
   - "2"
 authors:
-  - Elizabeth A. Cummins
+  - admin
   - Ann E. Snaith
   - Alan McNally
   - Rebecca J. Hall
