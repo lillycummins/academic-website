@@ -3,7 +3,20 @@ title: Pangenome evolution in Escherichia coli is sequence type, not phylogroup,
   specific
 publication_types:
   - "3"
-authors: []
+authors:
+  - admin
+  - Rebecca J. Hall
+  - Chris Connor
+  - James O. McInerney
+  - Alan McNally
+author_notes:
+  - University of Birmingham
+  - University of Birmingham
+  - University of Birmingham University of Melbourne
+  - University of Nottingham
+  - University of Birmingham
+doi: https://doi.org/10.1101/2022.05.20.492775
+publication: bioRxiv
 abstract: The Escherichia coli species contains a diverse set of sequence types
   and there remain important questions regarding differences in genetic content
   within this population that need to be addressed. Pangenomes are useful
