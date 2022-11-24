@@ -49,9 +49,4 @@ I'm Lilly, a 3rd year PhD student on [The Wellcome Trust - University of Notting
 
 Beyond my research, I sit on my Institute's Equality, Diversity, and Inclusion Committee. I am also part of the Microbiology Society's Early Career Microbiologists' Forum [Executive Committee](https://microbiologysociety.org/why-microbiology-matters/early-career-microbiologists-forum/meet-the-executive-committee.html) as the Audit, Risk, and Evalutation representative.
 
-I will be completing my PhD in September 2023 and looking for. 
-Beyond my research, I sit on my Institute's Equality, Diversity, and Inclusion Committee. I am also part of the Microbiology Society's Early Career Microbiologists' Forum [Executive Committee](https://microbiologysociety.org/
--microbiology-matters/early-career-microbiologists-forum/meet-the-executive-committee.html) as the Audit, Risk, and Evalutation representative.
-Beyond my research, I sit on my Institute's Equality, Diversity, and Inclusion Committee. I am also part of the Microbiology Society's Early Career Microbiologists' Forum [Executive Committee](https://microbiologysociety.org/why-microbiology-matters/early-career-microbiologists-forum/meet-the-executive-committee.html) as the Audit, Risk, and Evalutation representative.
-
 I will be completing my PhD in September 2023 and looking for a postdoc position to start soon after, in the area of microbial genomics. If you have, or know of any suitable opportunities, please get in touch!
