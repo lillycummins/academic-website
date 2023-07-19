@@ -4,7 +4,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include microbial genomics, pangenomes and AMR.
 interests:
   - Bioinformatics
-  - Microbial genomics
+  - Microbial evolutionary genomics
   - Pangenomics
   - Antimicrobial resistance
 social:
@@ -48,5 +48,3 @@ email: ""
 I'm Lilly, a 3rd year PhD student on [The Wellcome Trust - University of Nottingham & University of Birmingham Joint 4 Year PhD Training Programme for Antimicrobials & Antimicrobial Resistance](https://www.birmingham.ac.uk/schools/mds-graduate-school/wellcome-aamr/index.aspx) under the supervision of Professor Alan McNally and Dr. Nicole Wheeler. My research focuses on the evolution of multidrug resistance (MDR) in *Escherichia coli*, using a combination of bioinformatic and machine learning approaches to disentangle the evolutionary processes that can result in multidrug resistant phenotypes.
 
 Beyond my research, I sit on my Institute's Equality, Diversity, and Inclusion Committee. I am also part of the Microbiology Society's Early Career Microbiologists' Forum [Executive Committee](https://microbiologysociety.org/why-microbiology-matters/early-career-microbiologists-forum/meet-the-executive-committee.html) as the Audit, Risk, and Evalutation representative.
-
-I will be completing my PhD in September 2023 and looking for a postdoc position to start soon after, in the area of microbial genomics. If you have, or know of any suitable opportunities, please get in touch!
