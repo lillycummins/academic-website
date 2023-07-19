@@ -8,12 +8,24 @@ authors:
   - Haiyang Liu
   - Emma L Doughty
   - Xiaoting Hua
-  - Elizabeth A Cummins
+  - admin
   - Tomas Liveikis
   - Alan McNally
   - Zhihui Zhou
   - Willem van Schaik
   - Yunsong Yu
+author_notes:
+  - University of Birmingham
+  - Zhejiang University
+  - UniversityofBirmingham
+  - Zhejiang University
+  - University of Birmingham
+  - University of Birmingham
+  - University of Birmingham
+  - Zhejiang University
+  - University of Birmingham
+  - Zhejiang University
+doi: 10.1099/mgen.0.000840
 publication: Microbial Genomics
 draft: false
 featured: false
