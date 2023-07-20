@@ -31,7 +31,7 @@ experience:
     date_end: '2021-07-02'
     description: As part of a team, delivered a 5-day intensive course introducing the basics of microbial genomics with whole class teaching, demonstrations and 1-2-1 support.
     
-      - title: Assistant Instructor
+  - title: Assistant Instructor
     company: Analysing Microbial Genomic Data CPD course
     company_url: https://www.birmingham.ac.uk/postgraduate/courses/cpd/med/analysing-microbial-genomic-data.aspx
     company_logo: 
