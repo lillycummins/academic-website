@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Instructor
+  - title: Assistant Instructor
     company: Bioinformatics Community of Practice (BiXCoP) online workshop
     company_url: https://acaciaafrica.org/bioinformatics-community-practice/
     company_logo: 
@@ -31,7 +31,7 @@ experience:
     date_end: '2021-07-02'
     description: As part of a team, delivered a 5-day intensive course introducing the basics of microbial genomics with whole class teaching, demonstrations and 1-2-1 support.
     
-  - title: Assistant Instructor
+  - title: Instructor
     company: Analysing Microbial Genomic Data CPD course
     company_url: https://www.birmingham.ac.uk/postgraduate/courses/cpd/med/analysing-microbial-genomic-data.aspx
     company_logo: 
