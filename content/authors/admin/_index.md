@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD Microbiology & Infection
       institution: University of Birmingham
-      year: ""
+      year: 2020-2023
     - course: MRes Antimicrobials & Antimicrobial Resistance
       institution: University of Birmingham
       year: 2019 - 2020
