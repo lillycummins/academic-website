@@ -1,5 +1,5 @@
 ---
-role: Postdoctoral Research Assistant
+role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include microbial genomics, pangenomes and AMR.
 interests:
@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD Microbiology & Infection
       institution: University of Birmingham
-      year: 2020 - present
+      year: ""
     - course: MRes Antimicrobials & Antimicrobial Resistance
       institution: University of Birmingham
       year: 2019 - 2020
@@ -47,6 +47,6 @@ highlight_name: true
 title: Elizabeth A. Cummins
 email: ""
 ---
-I'm Lilly, a postdoctoral research assistant in the Sheppard Lab within the INEOS Oxford Institue of Antimicrobial Research at the University of Oxford. I previously completed my PhD as part of [The Wellcome Trust - University of Nottingham & University of Birmingham Joint 4 Year PhD Training Programme for Antimicrobials & Antimicrobial Resistance](https://www.birmingham.ac.uk/schools/mds-graduate-school/wellcome-aamr/index.aspx) under the supervision of Professor Alan McNally and Dr. Nicole Wheeler. My research focuses on the evolution of multidrug resistance (MDR) in *Escherichia coli*, using a combination of comparative and functional genomic approaches to disentangle the evolutionary processes that can result in multidrug resistant phenotypes.
+I'm Lilly, a postdoctoral researcher in the Sheppard Lab within the INEOS Oxford Institue of Antimicrobial Research at the University of Oxford. I previously completed my PhD as part of [The Wellcome Trust - University of Nottingham & University of Birmingham Joint 4 Year PhD Training Programme for Antimicrobials & Antimicrobial Resistance](https://www.birmingham.ac.uk/schools/mds-graduate-school/wellcome-aamr/index.aspx) under the supervision of Professor Alan McNally and Dr. Nicole Wheeler. My research focuses on the evolution of multidrug resistance (MDR) in *Escherichia coli*, using a combination of comparative and functional genomic approaches to disentangle the evolutionary processes that can result in multidrug resistant phenotypes.
 
 Beyond my research, I sit on my department's Equality, Diversity, and Inclusion Committee. I am also part of the Microbiology Society's Early Career Microbiologists' Forum [Executive Committee](https://microbiologysociety.org/why-microbiology-matters/early-career-microbiologists-forum/meet-the-executive-committee.html) as the Publishing Panel representative and was previously elected as the Audit, Risk, and Evalutation representative.
