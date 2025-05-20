@@ -25,13 +25,13 @@ content:
  #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: exc569@student.bham.ac.uk
+  email: elizabeth.cummins@biology.ox.ac.uk
  # phone: 888 888 88 88
   address:
-    street: Institute of Microbiology and Infection, University of Birmingham
-    city: Birmingham
-    region: West Midlands
-    postcode: 'B15 2TT'
+    street: Ineos Oxford Institute for Antimicrobial Research, Department of Biology, University of Oxford
+    city: Oxford
+    region: Oxfordshire
+    postcode: 'OX1 3RE'
     country: United Kingdom
     country_code: UK
 
